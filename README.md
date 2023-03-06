@@ -7,9 +7,7 @@ A toy implementation of monocular SLAM written while livestreaming.
 Stream
 -----
 
-https://www.twitch.tv/tomcr00s3
-
-Will be streaming again tomorrow. May 28, 2018
+We will be playing WITH THIS FORKED SLAM REPO CODESSSS TUNE IN TO MY YOUTUBE www.youtube@abdullahziker
 
 By the end of the day, twitchslam will be decent.
 
